@@ -1,2 +1,2 @@
 # HuangSA.github.io
-jekyll+GitHub Pages
+jekyll + GitHub Pages
